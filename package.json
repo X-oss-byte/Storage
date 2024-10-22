@@ -59,7 +59,7 @@
     "testEnvironment": "node"
   },
   "devDependencies": {
-    "@babel/core": "7.21.0",
+    "@babel/core": "7.25.9",
     "@changesets/cli": "2.26.0",
     "@edge-runtime/jest-environment": "2.0.8",
     "@edge-runtime/types": "2.0.8",
