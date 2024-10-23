@@ -64,7 +64,7 @@
     "@edge-runtime/jest-environment": "2.0.8",
     "@edge-runtime/types": "2.0.8",
     "@types/jest": "29.4.0",
-    "@types/node": "18.14.6",
+    "@types/node": "18.19.59",
     "@vercel/style-guide": "4.0.2",
     "eslint": "8.35.0",
     "husky": "8.0.3",
